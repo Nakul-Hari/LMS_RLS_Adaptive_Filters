@@ -62,12 +62,11 @@ The repository includes performance evaluation of the LMS and RLS filters in ter
 To use the Verilog code:
 
 1. Clone this repository to your local machine
-2. 
-3. Open the Verilog files in a Verilog simulator or synthesis tool of your choice.
+2. Open the Verilog files in a Verilog simulator or synthesis tool of your choice.
 
-4. Simulate the Verilog design to observe the performance of the LMS and RLS filters under different conditions.
+3. Simulate the Verilog design to observe the performance of the LMS and RLS filters under different conditions.
 
-5. Analyze the simulation results and compare the performance metrics of the two adaptive filters.
+4. Analyze the simulation results and compare the performance metrics of the two adaptive filters.
 
 ## Conclusion
 
